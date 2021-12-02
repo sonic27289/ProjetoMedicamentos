@@ -1,0 +1,13 @@
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.exe
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.deps.json
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.runtimeconfig.json
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.runtimeconfig.dev.json
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.dll
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\bin\Debug\netcoreapp3.1\ProjetoMédico.pdb
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.csprojAssemblyReference.cache
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.AssemblyInfoInputs.cache
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.AssemblyInfo.cs
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.csproj.CoreCompileInputs.cache
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.dll
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.pdb
+E:\Projetos\ProjetoMedicamentos\ProjetoMédico\ProjetoMédico\obj\Debug\netcoreapp3.1\ProjetoMédico.genruntimeconfig.cache
